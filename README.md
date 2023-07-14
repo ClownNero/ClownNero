@@ -14,6 +14,7 @@
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A.svg?&style=for-the-badge&logo=PostCSS&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ### Tools
