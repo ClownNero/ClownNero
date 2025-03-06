@@ -52,13 +52,10 @@
     <div markdown="1">
       <div>
         <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> &nbsp
-        <img src="https://img.shields.io/badge/Apache ECharts-%23CB3837.svg?style=flat&logo=apacheecharts&logoColor=white" /> &nbsp 
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> &nbsp
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white" /> &nbsp
         <img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=MongoDB&logoColor=white" /> &nbsp
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> &nbsp
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white" />
+       
       </div>
     </div>
   </details>
