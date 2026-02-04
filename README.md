@@ -50,8 +50,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clownnero&show_icons=true&theme=radical" alt="clownnero" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clownnero&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=clownnero&show_icons=true&theme=radical" alt="clownnero" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clownnero&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
